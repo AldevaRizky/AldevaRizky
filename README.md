@@ -181,7 +181,7 @@
 
 ###
 
-<img src="https://github.com/AldevaRizky/AldevaRizky/blob/main/workflows/snake.yml" alt="Snake animation" />
+<img src="[https://github.com/AldevaRizky/AldevaRizky/blob/main/workflows/snake.yml]" alt="Snake animation" />
 
 ###
 
