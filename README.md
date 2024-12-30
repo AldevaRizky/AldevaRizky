@@ -179,11 +179,6 @@
   <img src="https://streak-stats.demolab.com?user=aldevarizky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="[https://github.com/AldevaRizky/AldevaRizky/blob/main/workflows/snake.yml]" alt="Snake animation" />
-
-###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AldevaRizky&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
