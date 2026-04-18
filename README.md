@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Aldeva Rizky<br>👨‍💻 Full-Stack Developer based in Madiun, Indonesia.<br><br>I'm a passionate Fullstack Developer currently pursuing my degree in Informatics Engineering at Universitas PGRI Madiun, Faculty of Engineering.<br><br>With a solid foundation in both frontend and backend technologies, I thrive on creating seamless and efficient web applications. My journey in the tech world is fueled by deep curiosity and a love for problem-solving. Whether I'm coding, debugging, or exploring new technologies, I'm always excited to take on new challenges and expand my skillset.<br><br>Feel free to explore my repositories to see what I've been working on. I'm always open to collaboration and eager to learn from fellow developers. Let's connect and build something amazing together!</p>
+<p align="left">👋 Hi, I'm Aldeva Rizky<br>👨‍💻 Software Engineer based in Madiun, Indonesia.<br><br>I'm a passionate Software Engineer currently pursuing my degree in Informatics Engineering at Universitas PGRI Madiun, Faculty of Engineering.<br><br>With a solid foundation in both frontend and backend technologies, I thrive on building scalable and efficient software solutions. My journey in the tech world is fueled by deep curiosity and a love for problem-solving. Whether I'm designing systems, coding, debugging, or exploring new technologies, I'm always excited to take on new challenges and expand my skillset.<br><br>Feel free to explore my repositories to see what I've been working on. I'm always open to collaboration and eager to learn from fellow developers. Let's connect and build something amazing together!</p>
 
 ###
 
